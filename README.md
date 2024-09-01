@@ -1,4 +1,4 @@
-# codsoft
+# Codsoft
 This repository contains my projects for the CodSoft Data Science internship.
 
 
