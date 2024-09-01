@@ -16,7 +16,7 @@ This repository contains my projects for the CodSoft Data Science internship.
 
 ### 3. Sales Prediction Using Python (task4 on codsoft)
 - **Goal:** Predict future sales based on advertising data.
-- **Algorithm Used** Linear Regression
+- **Algorithm Used:** Linear Regression
 - **Dataset:** [Sales Dataset](https://www.kaggle.com/code/ashydv/sales-prediction-simple-linear-regression/input)
 
 ## Usage
