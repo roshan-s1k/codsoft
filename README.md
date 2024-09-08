@@ -11,7 +11,7 @@ This repository contains my projects for the CodSoft Data Science internship.
 
 ### 2. Iris Flower Classification (task3 on codsoft)
 - **Goal:** Classify Iris flowers based on measurements.
-- **Algorithm Used:** 
+- **Algorithm Used:** K-neighbors Classification
 - **Dataset:** [Iris Dataset](https://www.kaggle.com/datasets/arshid/iris-flower-dataset)
 
 ### 3. Sales Prediction Using Python (task4 on codsoft)
