@@ -21,7 +21,7 @@ This repository contains my projects for the CodSoft Data Science internship.
 
 ## Usage
 1. Click on the open with colab button
-2. copy the dataset to the contents folder of google colab
+2. Copy the dataset to the contents folder of google colab
 3. Run the notebook.
 
 
