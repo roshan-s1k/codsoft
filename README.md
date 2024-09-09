@@ -6,7 +6,7 @@ This repository contains my projects for the CodSoft Data Science internship.
 
 ### 1. Titanic Survival Prediction (task1 on codsoft)
 - **Goal:** Predict the survival of passenger on the Titanic.
-- **Algorithm Used:** 
+- **Algorithm Used:** Logistic Regression
 - **Dataset:** [Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
 
 ### 2. Iris Flower Classification (task3 on codsoft)
